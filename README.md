@@ -53,6 +53,8 @@ un pari à part entière dès qu'une place se libère.
 
 ## La série « On a compté »
 
+**Toute la série, avec un chiffre-titre par sujet** : [github.com/VincentChabran](https://github.com/VincentChabran)
+
 Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se contentent d'affirmer, un sujet à la fois :
 
 - [783 €/an pour un chien, 571 €/an pour un chat](https://github.com/VincentChabran/combien-coute-un-chien-un-chat)

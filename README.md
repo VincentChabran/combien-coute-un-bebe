@@ -34,6 +34,14 @@ Aucun chiffre de ce document n'a été recalculé ou extrapolé, à l'exception 
 primaire la plus solide trouvée à ce jour pour ce sujet, présentée comme telle plutôt que comme un
 chiffre d'actualité.
 
+**Vérification du conflit d'intérêt (2026-08-08)** : cette série a écarté d'autres candidats pour
+un motif précis — un institut qui mesure exclusivement ses propres clients payants (échantillon
+biaisé vers le haut, intérêt financier direct à un chiffre élevé). Ce n'est pas le cas ici :
+l'échantillon des 600 parents est un panel généraliste Ipsos recruté par la méthode des quotas,
+représentatif des parents français, sans filtre par enseigne. E.Leclerc est le commanditaire de
+l'étude, pas le mesureur de sa propre clientèle — la mesure a été déléguée à un institut tiers
+indépendant.
+
 ## Ce que ce chiffre ne dit pas
 
 Ce contenu porte uniquement sur la **dépense**, jamais sur le sommeil, la santé ou l'éducation du
@@ -63,3 +71,4 @@ Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se c
 - [488 € : le budget d'une rentrée scolaire 2026](https://github.com/VincentChabran/combien-coute-une-rentree-scolaire)
 - [1 748 € : le budget des vacances d'été 2026](https://github.com/VincentChabran/combien-coutent-des-vacances-ete)
 - [491 € : le budget de Noël 2025](https://github.com/VincentChabran/combien-coute-noel)
+

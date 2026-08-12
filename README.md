@@ -42,6 +42,36 @@ représentatif des parents français, sans filtre par enseigne. E.Leclerc est le
 l'étude, pas le mesureur de sa propre clientèle — la mesure a été déléguée à un institut tiers
 indépendant.
 
+## Ce que l'État couvre — et ce qui reste à charge (ajouté le 2026-08-12)
+
+L'allocation de base de la PAJE (Prestation d'accueil du jeune enfant), versée chaque mois jusqu'au
+mois qui précède le 3ᵉ anniversaire de l'enfant, sous conditions de ressources :
+
+| Taux | Montant mensuel |
+|---|---|
+| Taux plein | **198,16 €** |
+| Taux partiel | **99,08 €** |
+
+Chiffres applicables au **1er avril 2026**, vérifiés directement sur
+[service-public.gouv.fr, fiche F2552](https://www.service-public.gouv.fr/particuliers/vosdroits/F2552)
+(lu le 2026-08-12).
+
+Rapportés au budget mensuel moyen de **490 €** ci-dessus, ça laisse à la charge des parents :
+
+| Situation | Reste à charge / mois |
+|---|---|
+| Allocation à taux plein | 490 − 198,16 = **291,84 €** |
+| Allocation à taux partiel | 490 − 99,08 = **390,92 €** |
+| Sans allocation (au-delà du plafond de ressources) | **490 €** |
+
+Ce calcul est une simple soustraction entre deux chiffres sourcés séparément (2019 pour le coût,
+2026 pour l'aide) — c'est un point de comparaison, pas une moyenne recalculée pour 2026 : le chiffre
+de 490 €/mois n'a pas été mis à jour ni réévalué. Le plafond de ressources exact dépend de la
+situation familiale (nombre d'enfants, revenus du foyer) : il n'est pas repris ici par souci
+d'exactitude — utilisez le simulateur personnalisé de
+[service-public.gouv.fr](https://www.service-public.gouv.fr/particuliers/vosdroits/F2552) pour
+connaître votre éligibilité exacte.
+
 ## Ce que ce chiffre ne dit pas
 
 Ce contenu porte uniquement sur la **dépense**, jamais sur le sommeil, la santé ou l'éducation du

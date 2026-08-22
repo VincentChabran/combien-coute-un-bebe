@@ -1,5 +1,7 @@
 # Combien coûte un bébé, par mois ?
 
+![Visites de cette page](https://visitor-badge.laobi.icu/badge?page_id=vincentchabran.combien-coute-un-bebe.pages)
+
 **490 €** : c'est le budget mensuel moyen que les parents français consacrent à un enfant de 0 à 3
 ans — soit près de **5 880 € par an**, avant même l'entrée à l'école.
 
